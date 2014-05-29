@@ -1,7 +1,7 @@
 # Now I see it: Qualitative evaluation and reproducible, factorial randomized controlled trial evaluating infographics for Clinical Practice Guideline education
 
 Wilmax Cruz  
-Seiji Isotane  
+Seiji Isotani  
 João Ricardo Vissoci  
 Bruno Melo  
 Ricardo Pietrobon  
