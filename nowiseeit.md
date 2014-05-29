@@ -27,7 +27,7 @@ This is a mixed methods study where we initiated with a qualitative evaluation o
 
 <!-- insert reporting guideline -->
 
-<!-- semiautomatic, number nodes, cores, hierarquia, check graphical design principles, check infographic kindle, static vs dynamic, cost-effectiveness, check tools i sent wil graphfviz omnigraffle , https://github.com/dhotson/springy , web designer, html/css to pdf converter-->
+<!-- semiautomatic, number nodes, cores, hierarquia, check graphical design principles, check infographic kindle, static vs dynamic, cost-effectiveness, check tools i sent wil graphfviz omnigraffle , https://github.com/dhotson/springy , web designer, html/css to pdf converter, pdf as control group-->
 
 ### Factorial randomized trial
 
