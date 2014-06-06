@@ -1,4 +1,4 @@
-# Now I see it: Qualitative evaluation and reproducible, factorial randomized controlled trial evaluating infographics for Clinical Practice Guideline education
+# Now I see it: Qualitative evaluation and reproducible, factorial randomized controlled trial evaluating infographics for Clinical Practice Guideline representation
 
 Wilmax Cruz  
 Seiji Isotani  
