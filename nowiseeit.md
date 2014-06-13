@@ -6,6 +6,14 @@ João Ricardo Vissoci
 Bruno Melo  
 Ricardo Pietrobon  
 
+<!-- infographic libraries http://codecondo.com/9-flowchart-tools-creating-charts-diagrams/ -->
+
+
+<!-- 
+http://www.implementationscience.com/content/7/1/62 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1975662/?tool=pubmed http://www.jclinepi.com/article/S0895-4356(02)00403-1/abstract http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1190181/?tool=pubmed http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3072935/?tool=pubmed
+
+ -->
+
 ## Abstract
 
 ## Introduction
@@ -22,6 +30,22 @@ The objective of this article was therefore to conduct a mixed methods study, co
 ## Methods
 
 This is a mixed methods study where we initiated with a qualitative evaluation of different types of infographic display of a Clinical Practice Guideline, followed by a factorial randomized controlled trial. Both studies are described below following, respectively, the [COREQ (Consolidated criteria for reporting qualitative research )](http://www.equator-network.org/reporting-guidelines/coreq/) and the [CONSORT Statement, version 2010]().
+
+### Graphical design
+
+<!-- 
+1. usar um color scheme com menos cores (triadico??) e talvez pastel - http://goo.gl/zpozRz é só um exemplo, voce pode usar a combinação que quiser, mas eu provavelmente seguiria um color scheme em função da teoria cognitiva por trás dele: http://goo.gl/S91qGH
+2. no rdf vai ficar mais claro, mas dentro dos grupos existem subgrupos ("fase de", "grupos", "grau" e "ocorrendo em") - talvez dentro do schema de cores voce pudesse usar variações de cores (por exemplo, variações do vermelho do color scheme) pra representar o clustering desses grupos - não sei se vai funcionar, mas daria a ideia de agrupamento entre semelhantes e contraste em grupos diferentes http://goo.gl/1AJCPD
+3. no rdf eu vou ter uma dimensao a mais - grau de evidencia, e entao talvez valha a pena ja pensar como isso seria representado
+4. o efeito de profundidade é legal, mas talvez valesse a pena fazer um com flat design já que essa é a moda da vez http://goo.gl/HxdhP1
+5. eu não tenho certeza sobre isso, mas se as cores ja representam a hierarquia, as setas apontando do circulo interno pro externo talvez fiquem redudantes (noisy) - aqui eu to partindo do principio de que quanto menos features no design melhor http://goo.gl/mlpEYB
+
+esses principios vao entrar na fase pre-qualitativa do artigo. veja o livro em anexo
+
+estive pensando e a gente depois podia usar o mturk pra ver quais designs são mais populares durante a parte qualitativa do estudo, antes mesmo de chegar no trial
+ 
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0057410
+ -->
 
 ### Qualitative study
 
