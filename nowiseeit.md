@@ -9,6 +9,8 @@ Ricardo Pietrobon
 <!-- infographic libraries http://codecondo.com/9-flowchart-tools-creating-charts-diagrams/ -->
 
 
+<!-- json representation and json-ld -->
+
 <!-- 
 http://www.implementationscience.com/content/7/1/62 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1975662/?tool=pubmed http://www.jclinepi.com/article/S0895-4356(02)00403-1/abstract http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1190181/?tool=pubmed http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3072935/?tool=pubmed
 
