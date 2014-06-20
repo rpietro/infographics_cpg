@@ -6,6 +6,8 @@ João Ricardo Vissoci
 Bruno Melo  
 Ricardo Pietrobon  
 
+<!-- arxiv review article with ontology, funding proposal Brazil and US with assessment items into edx exercises , at the bottom place interventions and outcomes , kindle single-subject research, trials implemented into day to day resident activities , connection RDF precog , connect ab project to trials, bruno add infographic and page n-of-1 to sporedata site @sporedata -->
+
 ## Abstract
 
 ## Introduction
