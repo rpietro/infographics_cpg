@@ -6,6 +6,8 @@ João Ricardo Vissoci
 Bruno Melo  
 Ricardo Pietrobon  
 
+<!-- modelo semantico 7 errors psychotherapy - use turtle triples, add grau evidencia, standardize properties, add semantic references http://rdf-translator.appspot.com/ https://github.com/cboettig/knitcitations, sublime syntax for RDF, rdf label - http://www.freebase.com/medicine/disease_stage?schema= -->
+
 <!-- arxiv review article with ontology, funding proposal Brazil and US with assessment items into edx exercises , at the bottom place interventions and outcomes , kindle single-subject research, trials implemented into day to day resident activities , connection RDF precog , connect ab project to trials, bruno add infographic and page n-of-1 to sporedata site @sporedata -->
 <!-- infographic libraries http://codecondo.com/9-flowchart-tools-creating-charts-diagrams/ -->
 
