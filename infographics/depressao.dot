@@ -1,0 +1,9 @@
+digraph depressao {
+    Psicoterapia -> isolada -> "depressão leve ou moderada"
+    Psicoterapia -> "sem modificação após um mês" -> "troca de terapia"
+    Psicoterapia -> "4-8 semanas" -> "determinar resposta parcial ou não responsivo"
+    Psicoterapia -> "tratamento de manutenção" -> "terapia comportamental cognitiva"
+    Psicoterapia -> "interrupção" -> "aviso com antecedência"
+    Psicoterapia -> "tratamento de escolha" -> "grávidas e amamentação"
+    Psicoterapia -> "depressão leve" ->  "considerar combinação com medicação"
+}

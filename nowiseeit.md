@@ -6,6 +6,7 @@ João Ricardo Vissoci
 Bruno Melo  
 Ricardo Pietrobon  
 
+
 <!-- 
 http://www.audiotranskription.de/english/transcription-practicalguide.htm
 
@@ -20,6 +21,8 @@ http://www.audiotranskription.de/english/transcription-practicalguide.htm
 
 upload video to youtube, extract srt and annotate directly, then analyze using http://rqda.r-forge.r-project.org/
  -->
+
+<!-- arxiv review article with ontology, funding proposal Brazil and US with assessment items into edx exercises , at the bottom place interventions and outcomes , kindle single-subject research, trials implemented into day to day resident activities , connection RDF precog , connect ab project to trials, bruno add infographic and page n-of-1 to sporedata site @sporedata -->
 
 <!-- infographic libraries http://codecondo.com/9-flowchart-tools-creating-charts-diagrams/ -->
 
