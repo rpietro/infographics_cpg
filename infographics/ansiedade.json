@@ -1,0 +1,27 @@
+{
+    "Transtorno de Ansiedade Generalizada (TAG)": {
+        "Passo 1": {
+            "Todos os tipos de apresentação clínica ou supeitas": [
+                "Identificação e avaliação",  "Educação sobre TAG e opções de tratamento", "Monitoramento ativo"
+                ]
+            }
+        },
+        "Passo 2": {
+            "Diagnóstico de TAG sem melhora após Passo 1": {
+                "Intervenções psicológicas de baixa intensidade": "Auto-ajuda e grupos psico-educacionais"
+            }
+        },
+        "Passo 3": {
+            "TAG sem resposta adequada à etapa 2 ou disfunção grave": {
+                "Intervenções psicológicas de alta intensidade": [
+                    "Técnicas de relaxamento", "TCC", "Medicação"
+                ]
+            }
+        },
+        "Passo 4": {
+            "TAG refratária a tratamento e prejuízo funcional acentuado, tal como em auto-negligência ou alto risco de auto-mutilação": {
+                "Tratamento altamente especializado": ["Medicações de última linha", "Regimes de tratamento psicológico", "Equipes multi-disciplinares", "Suporte pro equipes de apoio em situações de crise", "Hospitais-dia ou internação"]
+            }
+        }
+
+    } 

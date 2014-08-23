@@ -6,11 +6,32 @@ João Ricardo Vissoci
 Bruno Melo  
 Ricardo Pietrobon  
 
+
 <!-- modelo semantico 7 errors psychotherapy - use turtle triples, add grau evidencia, standardize properties, add semantic references http://rdf-translator.appspot.com/ https://github.com/cboettig/knitcitations, sublime syntax for RDF, rdf label - http://www.freebase.com/medicine/disease_stage?schema= -->
 
+
+<!-- 
+http://www.audiotranskription.de/english/transcription-practicalguide.htm
+
+ -->
+
+<!-- 
+# Infographic script
+
+* Which of the following infographics do you find prettier? Why? Could you talk about each one of them?
+* Which of the following inographics do you find easier to understand? Why? Could you talk about each one of them?
+* Which of the following infographics woul you hang on the wall of your office to consult once in a while? Why? Could you talk about each one of them?
+
+upload video to youtube, extract srt and annotate directly, then analyze using http://rqda.r-forge.r-project.org/
+ -->
+
 <!-- arxiv review article with ontology, funding proposal Brazil and US with assessment items into edx exercises , at the bottom place interventions and outcomes , kindle single-subject research, trials implemented into day to day resident activities , connection RDF precog , connect ab project to trials, bruno add infographic and page n-of-1 to sporedata site @sporedata -->
+
 <!-- infographic libraries http://codecondo.com/9-flowchart-tools-creating-charts-diagrams/ -->
 
+<!-- 
+http://forrst.com/
+ -->
 
 <!-- json representation and json-ld -->
 
@@ -217,10 +238,11 @@ We will evaluate for potential confounding of the intervention effect by assessi
 
 The psychometric analysis for parallel validation of our scales will start with an Exploratory Factor Analysis to evaluate the underlying dimensional structure of our item pool. We will then conduct a Confirmatory Factor Analysis using the hypothesized domains (see Outcome Variable section for extensive details). Once domains are established we will use Cronbach's alpha to measure internal reliability within each construct. Validity was measured by triangulation across different domains. For example, it is believed that if a professional is able to understand the biomechanics of a given fracture, then the construct for therapeutic planning should be highly associated with that previous construct.
 
-Given that all of our outcomes have multiple endpoints over time, we will use a combination of mixed models and survival analysis to measure the efficacy associated with the 3D in comparison with the control arm. To formally test trends in each of our outcome variables over time (knowledge, User eXperience and impact on clinical practice) we will  develop mixed models that account for multiple measures as random a effect. For each time period we will also assess differences in scores, comparing the three subgroups. These bivariate analyses will incorporate robust standard errors to account for the clustering effect. Survival models will include Cox Proportional Hazards models measuring time until an information reached clinical practice. The hazards assumption was tested prior to analyses and eventual ties was resolved. 
+Given that all of our outcomes have multiple endpoints over time, we will use a combination of mixed models and survival analysis to measure the efficacy associated with the 3D in comparison with the control arm. To formally test trends in each of our outcome variables over time (knowledge, User eXperience and impact on clinical practice) we will  develop mixed models that account for multiple measures as random a effect. For each time period we will also assess differences in scores, comparing the three subgroups. These bivariate analyses will incorporate robust standard errors to account for the clustering effect. Survival models will include Cox Proportional Hazards models measuring time until an information reached clinical practice. The hazards assumption was tested prior to analyses and eventual ties were resolved. 
 
 ## Results
 
+<<<<<<< HEAD
 ### Qualitative
 
 #### primeira interview
@@ -264,6 +286,10 @@ https://www.youtube.com/watch?v=Rm6X8GIeQps
 ### Randomized trial
 
 
+
+<!-- 
+video graziela https://www.youtube.com/watch?v=B5E1Y1IH9Pc#start=0:00;end=16:11;cycles=-1;autoreplay=false;showoptions=false
+ -->
 ## Discussion
 
 
