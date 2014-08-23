@@ -221,6 +221,48 @@ Given that all of our outcomes have multiple endpoints over time, we will use a 
 
 ## Results
 
+### Qualitative
+
+#### primeira interview
+
+1. preferencia art, second pie
+2. nao gostou art: hierarquia não respeitada no título, ou seja, psicoterapia deveria estar em evidencia ao inves de 7 informações
+3. gostou art
+    * icones representando conceito central - vectors
+    * sequencia de leitura - numeração
+    * agrupamento por cores e espaçamento
+    * esteticamente agradável
+4. nao interagiu - útil
+5. expectativa de que cores carregassem informação (hierarquia ou conexão)
+6. gostou de locais onde existe hierarquia
+
+
+next interview
+
+* psicoterapia grafico 7 vai para o topo
+* cores 2 alinhadas com informacao
+* pie 6 - numeros e vector images
+
+
+<!-- gustavo
+
+estratificação
+tabela
+hierarquia
+http://www.canmat.org/ - fig 3.1 http://www.canmat.org/resources/CANMAT%20Depression%20Guidelines%202009.pdf tabela s34
+
+ -->
+
+<!-- 
+
+rafael
+https://www.youtube.com/watch?v=Rm6X8GIeQps 
+
+  -->
+
+
+### Randomized trial
+
 
 ## Discussion
 
